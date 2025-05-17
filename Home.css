@@ -5,6 +5,17 @@
     font-family: "Poppins", sans-serif;
 }
 
+.home-detail h4 {
+  font-size: 55px;
+  margin-bottom: 0px;
+}
+
+.home-detail p {
+  font-size: 18px;
+  margin-top: -5px;
+  margin-bottom: 10px;
+}
+
 body {
     height: 100vh;
     background: url("Background\ cv.jpg") no-repeat center / cover;
@@ -89,10 +100,11 @@ header {
 .home-detail h1{
     font-size: 55px;
     line-height: 1;
+    margin-bottom: 10px;
 }
 
 .home-detail h2{
-    font-size: 32px;
+    font-size: 25px;
 }
 
 .home-detail p {
